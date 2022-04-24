@@ -10,6 +10,10 @@ If you wonder the company, you can [click here](https://www.corporacionfavorita.
 
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/64805962/164993391-db5cd81c-e656-408e-937a-ba5d6dbf87c1.png">
 
+You can access the data from [here](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data).
+
+<hr>
+
 **Our main mission in this competition is, predicting sales for each product family and store combinations.**
 
 When you look at the data description, you will see **"Additional Notes"**. These notes may be significant to catch some patterns or anomalies. I'm sharing them with you to remember.
@@ -17,3 +21,5 @@ When you look at the data description, you will see **"Additional Notes"**. Thes
 (1) Wages in the public sector are paid every two weeks on the 15 th and on the last day of the month. Supermarket sales could be affected by this.
 <br>
 (2) A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in relief efforts donating water and other first need products which greatly affected supermarket sales for several weeks after the earthquake.
+
+<hr>
